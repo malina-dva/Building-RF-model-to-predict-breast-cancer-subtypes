@@ -1,19 +1,3 @@
----
-title: "Predict cancer subtypes from protein level signatures with random forest model "
-author: "Malina Doynova"
-date: "5/02/2024"
-output: github_document
-  # html_notebook:
-  #    theme: simplex # Change the theme to 'darkly'
-  #    highlight: tango # Change the highlight style
-  #    toc: yes # Include table of content
-  #    toc_float: false # If to be floating or not 
-  #   
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # 1.  Install and/or load the required packages
 
